@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 name: Run Parasoft C/C++test
 uses: parasoft/run-cpptest-action@0.2.4-alpha
+name: cmake-configure
+uses: snickerbockers/cmake-configure@prerel1
